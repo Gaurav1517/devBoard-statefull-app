@@ -1,0 +1,38 @@
+# =========================
+# Node & React Full Stack
+# =========================
+
+# Node modules (all folders)
+node_modules/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Build folders
+build/
+dist/
+
+# Logs
+logs/
+*.log
+
+# Coverage
+coverage/
+
+# Redis dump
+dump.rdb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Docker
+docker-data/
+postgres-data/
+redis-data/
